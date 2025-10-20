@@ -1,2 +1,2 @@
 # This is my  Local Repo
-Author - Navaz odiya
+Author - Navaz odiya(from jetpur)
